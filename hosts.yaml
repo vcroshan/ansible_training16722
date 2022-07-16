@@ -10,10 +10,10 @@ all:
       hosts:
         172.31.81.238:
         172.31.22.150:
-        172.31.11.120:
-          ansible_user: ubuntu
-        172.31.13.221:
-          ansible_user: ubuntu
+        #172.31.11.120:
+        #  ansible_user: ubuntu
+        #172.31.13.221:
+        #  ansible_user: ubuntu
     dbservers:
       hosts:
         172.31.18.162:
